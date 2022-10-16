@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas1_Intents</string>
+    <string name="photo">My photo profile</string>
+    <string name="phone">Call Phone</string>
+    <string name="facebook">Visit Facebook</string>
+    <string name="profile">Show Profile</string>
+    <string name="twitter">Visit Twitter</string>
+    <string name="biodata">Ordinary college student studying mobile programming and android studio</string>
+</resources>
